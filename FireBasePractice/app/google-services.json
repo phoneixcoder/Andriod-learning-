@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531936537598",
+    "project_id": "fir-practice-61601",
+    "storage_bucket": "fir-practice-61601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531936537598:android:eaa7fd0e5dbb5faada6eaf",
+        "android_client_info": {
+          "package_name": "com.example.firebasepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531936537598-lf8jdvql8vgjmo4n65lg0nshc28r4a3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEbFwvt8TYPQC83ie4Nm2totbwWY3aus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531936537598-lf8jdvql8vgjmo4n65lg0nshc28r4a3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
